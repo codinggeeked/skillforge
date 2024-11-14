@@ -5,7 +5,7 @@ const Newsletter = () => {
   const [error, setError] = useState('');
   const [success, setSuccess] = useState(false);
 
-  const scriptURL = 'https://script.google.com/macros/s/AKfycbxKOS1-gZlzu2jxn-EGEx4RW_zg_ZuQKScQj7loOxt99kFUp5avnv_xDeG0loG7fKg_Yg/exec';
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbwGXoGLduC5W06KqMtfZRUbB5adhQBuG1GbiYRts-6l9xcxG5Gm-2tyM1lZ3D2C3Hxqow/exec';
 
   // Email validation function
   const validateEmail = (email) => {

@@ -30,56 +30,56 @@ const Footer = () => {
         </div>
       </div>
       <div className='lg:col-span-2 grid grid-cols-2 sm:grid-cols-4 gap-8 mt-6'>
-        <div>
-          <h6 className='font-medium text-gray-400'>Structure</h6>
-          <ul className='pt-2'>
+        <div className='flex flex-col items-start'>
+          <h6 className='font-medium text-gray-400 pb-2'>Structure</h6>
+          <ul className='pl-1'>
             <li className='py-1 text-sm'>
-              <a href="#" className='no-underline text-gray-300'>Members</a>
+              <a href="javascript:void(0)" className='no-underline text-gray-300'>Members</a>
             </li>
             <li className='py-1 text-sm'>
-              <a href="#" className='no-underline text-gray-300'>Alumni</a>
+              <a href="javascript:void(0)" className='no-underline text-gray-300'>Alumni</a>
             </li>
             <li className='py-1 text-sm'>
-              <a href="#" className='no-underline text-gray-300'>Patrons</a>
+              <a href="javascript:void(0)" className='no-underline text-gray-300'>Patrons</a>
             </li>
             <li className='py-1 text-sm'>
-              <a href="#" className='no-underline text-gray-300'>Founders</a>
-            </li>
-          </ul>
-        </div>
-        <div>
-          <h6 className='font-medium text-gray-400'>Support</h6>
-          <ul className='pt-2'>
-            <li className='py-1 text-sm'>
-              <a href="#" className='no-underline text-gray-300'>Documentation</a>
-            </li>
-            <li className='py-1 text-sm'>
-              <a href="#" className='no-underline text-gray-300'>Guides</a>
+              <a href="javascript:void(0)" className='no-underline text-gray-300'>Founders</a>
             </li>
           </ul>
         </div>
-        <div>
-          <h6 className='font-medium text-gray-400'>Club</h6>
-          <ul className='pt-2'>
+        <div className='flex flex-col items-start'>
+          <h6 className='font-medium text-gray-400 pb-2'>Support</h6>
+          <ul className='pl-1'>
             <li className='py-1 text-sm'>
-              <a href="#" className='no-underline text-gray-300'>About</a>
+              <a href="javascript:void(0)" className='no-underline text-gray-300'>Documentation</a>
             </li>
             <li className='py-1 text-sm'>
-              <a href="#" className='no-underline text-gray-300'>Blog</a>
-            </li>
-            <li className='py-1 text-sm'>
-              <a href="#" className='no-underline text-gray-300'>Events</a>
+              <a href="javascript:void(0)" className='no-underline text-gray-300'>Guides</a>
             </li>
           </ul>
         </div>
-        <div>
-          <h6 className='font-medium text-gray-400'>Legal</h6>
-          <ul className='pt-2'>
+        <div className='flex flex-col items-start'>
+          <h6 className='font-medium text-gray-400 pb-2'>Club</h6>
+          <ul className='pl-1'>
             <li className='py-1 text-sm'>
-              <a href="#" className='no-underline text-gray-300'>Policy</a>
+              <a href="javascript:void(0)" className='no-underline text-gray-300'>About</a>
             </li>
             <li className='py-1 text-sm'>
-              <a href="#" className='no-underline text-gray-300'>Terms</a>
+              <a href="javascript:void(0)" className='no-underline text-gray-300'>Blog</a>
+            </li>
+            <li className='py-1 text-sm'>
+              <a href="javascript:void(0)" className='no-underline text-gray-300'>Events</a>
+            </li>
+          </ul>
+        </div>
+        <div className='flex flex-col items-start'>
+          <h6 className='font-medium text-gray-400 pb-2'>Legal</h6>
+          <ul className='pl-1'>
+            <li className='py-1 text-sm'>
+              <a href="javascript:void(0)" className='no-underline text-gray-300'>Policy</a>
+            </li>
+            <li className='py-1 text-sm'>
+              <a href="javascript:void(0)" className='no-underline text-gray-300'>Terms</a>
             </li>
           </ul>
         </div>

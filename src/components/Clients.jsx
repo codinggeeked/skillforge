@@ -13,8 +13,8 @@ const Clients = () => {
         {/* Club Initiatives */}
         <div className='grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8 mb-12'>
           <div className='bg-white p-6 shadow-lg rounded-lg'>
-            <h2 className='text-xl font-bold mb-4'>Success Stories</h2>
-            <p>We celebrate the achievements of our members & alumni, who have gone on to make impactful contributions in tech, business, and innovation.</p>
+          <h2 className='text-xl font-bold mb-4'>Echo Success Stories</h2>
+            <p>Big on recognizing achievements of our members & alumni, who have gone on to make impactful contributions in tech, business, and innovation.</p>
           </div>
           <div className='bg-white p-6 shadow-lg rounded-lg'>
             <h2 className='text-xl font-bold mb-4'>Hackathon Challenges</h2>
