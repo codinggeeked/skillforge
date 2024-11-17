@@ -3,7 +3,7 @@ import { FaFacebookSquare, FaInstagram, FaTwitterSquare, FaLinkedin, FaWhatsapp 
 
 const Footer = () => {
   return (
-    <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300 bg-black'>
+    <div className='bg-black max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
       <div>
         <h1 className='w-full text-3xl font-bold text-[#cc9900]'>SKILL FORGE.</h1>
         <p className='py-4'>
