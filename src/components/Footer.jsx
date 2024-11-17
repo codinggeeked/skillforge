@@ -11,7 +11,7 @@ const Footer = () => {
           actionable insights, and tailored learning solutions to enhance academic performance 
           and foster personal growth.
         </p>
-        <div className='flex justify-between md:w-[75%] my-6'>
+        {/* <div className='flex justify-between md:w-[75%] my-6'>
           <a href="https://www.facebook.com/skillforge" target="_blank" rel="noopener noreferrer">
             <FaFacebookSquare size={30} />
           </a>
@@ -27,7 +27,7 @@ const Footer = () => {
           <a href="https://chat.whatsapp.com/EYJEIN1ay2yBV58F6fTO3V" target="_blank" rel="noopener noreferrer">
             <FaWhatsapp size={30} />
           </a>
-        </div>
+        </div> */}
       </div>
       <div className='lg:col-span-2 grid grid-cols-2 sm:grid-cols-4 gap-8 mt-6'>
         <div className='flex flex-col items-start'>
