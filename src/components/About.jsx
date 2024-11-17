@@ -20,11 +20,11 @@ const About = () => {
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
         <img className='w-[500px] mx-auto my-4' src={Laptop} alt='Programming & Analytics' />
         <div className='flex flex-col justify-center'>
-          <p className='text-[#cc9900] font-bold'>PROGRAMMING & ANALYTICS</p>
+          <p className='text-[#cc9900] font-bold'>RESEARCH & ANALYTICS</p>
           <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Develop Skills and Unlock Potential</h1>
           <p>
-            Join our educational club to build strong foundations in programming. 
-            We offer hands-on coding sessions, mentorship, and resources to help you grow both technically and personally. 
+            Join our educational club to build strong foundations in indepth study and analytics. 
+            We offer hands-on skill sharing sessions, mentorship, and resources to help you grow both technically and personally. 
             Be part of a community that values learning, collaboration, and personal progress.
           </p>
           <Button variant='dark' className='w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3' onClick={handleShow1}>
