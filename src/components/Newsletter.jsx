@@ -19,7 +19,7 @@ const Newsletter = () => {
 
     // Validate email format
     if (!validateEmail(email)) {
-      setError('Please enter a valid Email address.');
+      setError('Please enter a valid email address.');
       return;
     }
     setError('');
