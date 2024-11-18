@@ -42,12 +42,12 @@ const Newsletter = () => {
   return (
     <div className='w-full py-16 px-4 bg-black border-b-2 border-white'>
       <div className='max-w-[1240px] mx-auto grid lg:grid-cols-3'>
-        <div className='lg:col-span-2 my-4'>
+        <div className='lg:col-span-2 my-4 text-white'>
           <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>
             Want tips & tricks to stay Savvy?
           </h1>
           <p>Sign up to our newsletter and stay up to date.</p>
-
+        
           {/* Contact Information */}
           <div className='text-sm mt-4 space-y-2'>
             <p className='flex items-center gap-2'>
@@ -65,7 +65,6 @@ const Newsletter = () => {
             </p>
           </div>
         </div>
-
         <div className='my-4'>
           <form onSubmit={handleSubmit} className='flex flex-col sm:flex-row items-center justify-between w-full'>
             <input
