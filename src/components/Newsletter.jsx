@@ -83,7 +83,7 @@ const Newsletter = () => {
           </form>
           {error && <p className='text-red-500'>{error}</p>}
           {success && <p className='text-green-500'>Thank you for subscribing!</p>}
-          <p>
+          <p className='text-white'>
             We care about the protection of your data. Read our{' '}
             <span className='text-[#cc9900]'>Privacy Policy.</span>
           </p>
