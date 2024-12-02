@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/skillforge/static/css/main.6ec54e89.css",
-    "main.js": "/skillforge/static/js/main.6e68c3da.js",
+    "main.js": "/skillforge/static/js/main.1cc955a2.js",
     "static/media/disc.jpg": "/skillforge/static/media/disc.d8405d3c6e2e2b6b7acf.jpg",
     "static/media/laptop.jpg": "/skillforge/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "index.html": "/skillforge/index.html",
     "main.6ec54e89.css.map": "/skillforge/static/css/main.6ec54e89.css.map",
-    "main.6e68c3da.js.map": "/skillforge/static/js/main.6e68c3da.js.map"
+    "main.1cc955a2.js.map": "/skillforge/static/js/main.1cc955a2.js.map"
   },
   "entrypoints": [
     "static/css/main.6ec54e89.css",
-    "static/js/main.6e68c3da.js"
+    "static/js/main.1cc955a2.js"
   ]
 }
